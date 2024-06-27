@@ -13,19 +13,12 @@ To install and run the project, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/yourusername/Efficient-Meeting-Insights.git
 cd Efficient-Meeting-Insights
 Install the required dependencies:
-
-bash
-Copy code
 pip install -r requirements.txt
 Run the Jupyter Notebook:
-
-bash
-Copy code
 jupyter notebook Efficient_Meeting_Insights.ipynb
 Usage
 Prepare Audio Files: Ensure your audio files are in WAV format.
